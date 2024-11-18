@@ -2,11 +2,11 @@
 
 For fast use of GitHub Repo's
 
-## Inhaltsverzeichnis
+## Content
 
 1. [About the Project](#about-the-project)
 2. [Installation](#installation)
-6. [Lizenz](#lizenz)
+6. [License](#license)
 7. [Kontakt](#kontakt)
 8. [Project](#project)
 
