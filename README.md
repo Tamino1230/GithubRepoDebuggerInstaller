@@ -32,10 +32,10 @@ Steps for the Installation
 This Project is under the MIT-License. See in the LICENSE-File for more Information.
 
 ## Kontact
-Twitter - @NukeTamino
-Discord - @tamino1230
-TikTok - @IhrPookie
-Email - /
++ Twitter - @NukeTamino
++ Discord - @tamino1230
++ TikTok - @IhrPookie
++ Email - /
 
 ## Project
 Project-Repository: https://github.com/Tamino1230/GithubRepoDebuggerInstaller
