@@ -32,7 +32,7 @@ Steps for the Installation
 This Project is under the MIT-License. See in the LICENSE-File for more Information.
 
 ## Kontact
-Twitter - @tamino1230
+Twitter - @NukeTamino
 Discord - @tamino1230
 TikTok - @IhrPookie
 Email - /
