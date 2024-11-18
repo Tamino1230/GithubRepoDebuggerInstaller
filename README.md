@@ -23,6 +23,7 @@ Beschreibe hier die wichtigsten Punkte:
 
 Steps for the Installation
 
+You need to have pyton installed correctly.
 1. Download the Zip File
 2. Extract it
 3. Edit Config.py for your own use
