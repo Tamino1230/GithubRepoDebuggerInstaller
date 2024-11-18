@@ -34,7 +34,7 @@ This Project is under the MIT-License. See in the LICENSE-File for more Informat
 ## Kontact
 + Twitter - @NukeTamino
 + Discord - @tamino1230
-+ TikTok - @IhrPookie
++ Website - / (not yet)
 + Email - /
 
 ## Project
