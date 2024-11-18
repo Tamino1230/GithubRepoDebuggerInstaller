@@ -26,6 +26,7 @@ Steps for the Installation
 1. Download the Zip File
 2. Extract it
 3. Edit Config.py for your own use
+4. Double click the .bat file
 
 ## License
 This Project is under the MIT-License. See in the LICENSE-File for more Information.
