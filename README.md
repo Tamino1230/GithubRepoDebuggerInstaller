@@ -1,1 +1,1 @@
-# RepoDebuggerInstallerGithub
+# GithubRepoDebuggerInstaller
