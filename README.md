@@ -4,13 +4,11 @@ For fast use of GitHub Repo's
 
 ## Inhaltsverzeichnis
 
-1. [Über das Projekt](#über-das-projekt)
+1. [About the Project](#about-the-project)
 2. [Installation](#installation)
-3. [Verwendung](#verwendung)
-4. [Funktionen](#funktionen)
-5. [Contributing](#contributing)
 6. [Lizenz](#lizenz)
 7. [Kontakt](#kontakt)
+8. [Project](#project)
 
 ---
 
