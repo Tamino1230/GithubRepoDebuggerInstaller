@@ -6,15 +6,14 @@ For fast use of GitHub Repo's
 
 1. [About the Project](#about-the-project)
 2. [Installation](#installation)
-6. [License](#license)
-7. [Kontakt](#kontakt)
-8. [Project](#project)
+3. [License](#license)
+4. [Kontakt](#kontakt)
+5. [Project](#project)
 
 ---
 
 ## About the Project
 
-Beschreibe hier die wichtigsten Punkte:
 - Easy Download and Upload (soon) for small GitHub projects
 - It should make it easier to go and get the newest version of your own project without having a lot of files on your pc.
 - This early access project is made for people who are doing their own "small" project like i do on GitHub.
