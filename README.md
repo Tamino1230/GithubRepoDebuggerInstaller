@@ -2,6 +2,8 @@
 
 For fast use of GitHub Repo's
 
+## Bug for Public Repositories, (not working)
+
 ## Content
 
 1. [About the Project](#about-the-project)
